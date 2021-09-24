@@ -14,8 +14,8 @@ body {
 body {
   background: radial-gradient(
     at top left,
-    rgba(146, 43, 225, 1) 0%,
-    rgba(43, 9, 107, 1) 100%
+    rgb(49, 162, 62) 0%,
+    rgb(10, 111, 25) 100%
   );
   background-repeat: no-repeat;
 }
