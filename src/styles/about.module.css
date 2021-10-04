@@ -1,0 +1,11 @@
+.aboutContent {
+  max-width: 600px;
+}
+
+.aboutContainer {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  color: black;
+  /* background-color: #fffbeb; */
+}

@@ -14,14 +14,14 @@ body {
 body {
   background: radial-gradient(
     at top left,
-    rgb(49, 162, 62) 0%,
-    rgb(10, 111, 25) 100%
+    rgb(40, 31, 136) 0%,
+    rgb(81, 130, 235) 100%
   );
   background-repeat: no-repeat;
 }
 p {
-  margin: 16px auto;
-  line-height: 1.5em;
+  /* margin: 16px auto; */
+  /* line-height: 1.5em; */
 }
 
 /* layout & nav */
