@@ -10,10 +10,6 @@ export default function Layout({ children }) {
         {/* {content for each page} */}
         {children}
       </div>
-
-      <footer>
-        <p>copyright 2021 Web Warrior</p>
-      </footer>
     </div>
   )
 }
